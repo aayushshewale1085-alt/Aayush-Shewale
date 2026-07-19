@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Enthusiast | Building Scalable, Reliable & Efficient Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjun-Nalge&label=Profile%20views&color=0e75b6&style=flat" alt="Arjun-Nalge" />
+  <img src="https://komarev.com/ghpvc/?username=Aayush-Shewale&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush-Shewale" />
 </p>
 
 - 🔭 I'm currently focused on **automating infrastructure and CI/CD pipelines**
@@ -90,12 +90,12 @@ I design and implement workflows and pipelines that run smoothly and empower tea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Nalge&show_icons=true&theme=radical&count_private=true" alt="Arjun's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-Nalge&theme=radical" alt="Arjun's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-Shewale&show_icons=true&theme=radical&count_private=true" alt="Aayush's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Shewale&theme=radical" alt="Aayush's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Nalge&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Shewale&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ I design and implement workflows and pipelines that run smoothly and empower tea
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Arjun-Nalge" target="_blank">
+  <a href="https://github.com/Aayush-Shewale" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
