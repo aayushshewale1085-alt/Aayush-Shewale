@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Enthusiast | Building Scalable, Reliable & Efficient Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush-Shewale&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush-Shewale" />
+  <img src="https://komarev.com/ghpvc/?username=aayushshewale1085-alt&label=Profile%20views&color=0e75b6&style=flat" alt="aayushshewale1085-alt" />
 </p>
 
 - 🔭 I'm currently focused on **automating infrastructure and CI/CD pipelines**
@@ -87,15 +87,24 @@ I design and implement workflows and pipelines that run smoothly and empower tea
 
 ---
 
+### 📌 Featured Projects
+
+- 🪣 **[aws-s3-static-website-hosting](https://github.com/aayushshewale1085-alt/aws-s3-static-website-hosting)** — Static website hosting on Amazon S3 with bucket creation, hosting config, bucket policies, and public access setup
+- 🖥️ **[aws-ec2-lemp-stack](https://github.com/aayushshewale1085-alt/aws-ec2-lemp-stack)** — LEMP stack (Linux, Nginx, MySQL, PHP) deployed on an AWS EC2 instance
+- 🌐 **[nodejs_webdepeloyment](https://github.com/aayushshewale1085-alt/nodejs_webdepeloyment)** — Node.js web application deployment project
+- ⚙️ **[Jenkins](https://github.com/aayushshewale1085-alt/Jenkins)** — Jenkins pipeline and automation experiments
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-Shewale&show_icons=true&theme=radical&count_private=true" alt="Aayush's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Shewale&theme=radical" alt="Aayush's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushshewale1085-alt&show_icons=true&theme=radical&count_private=true" alt="Aayush's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushshewale1085-alt&theme=radical" alt="Aayush's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Shewale&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushshewale1085-alt&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -106,7 +115,7 @@ I design and implement workflows and pipelines that run smoothly and empower tea
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Aayush-Shewale" target="_blank">
+  <a href="https://github.com/aayushshewale1085-alt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
